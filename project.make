@@ -13,3 +13,4 @@ defaults[projects][subdir] = contrib
 projects[platform][version] = 1.3
 projects[]= corporateclean
 projects[]= tfa
+projects[]= tfa_basic
