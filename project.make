@@ -14,3 +14,4 @@ projects[platform][version] = 1.3
 projects[]= corporateclean
 projects[]= tfa
 projects[]= tfa_basic
+projects[]= mobile_codes
