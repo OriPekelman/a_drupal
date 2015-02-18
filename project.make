@@ -12,3 +12,4 @@ defaults[projects][subdir] = contrib
 ; Platform indicator module.
 projects[platform][version] = 1.3
 projects[corporateclean]
+projects[ga_login][version] = 1.6
